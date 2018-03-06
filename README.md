@@ -30,5 +30,5 @@ This document and repository will not be an extensive guide to using GitHub.  Ho
 
 * Markdown. Markdown is a web markup language that github interprets  live to make pretty templates. This document is written in markdown and there are lots of guides for using markdown starting [here](https://guides.github.com/features/mastering-markdown/). Bonus! If you program in R and use RMarkdown then your code can be integrated with markdown text in a way that makes reading through entire coding projects much easier. 
 
-
+* RMarkdown. A version of markdown that allows you to run code inside of it. 
 
